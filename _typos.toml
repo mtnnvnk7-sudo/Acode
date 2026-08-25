@@ -1,6 +1,8 @@
 [default]
 check-filename = true
-
+termux-x11 :1 -- dbus-launch pkg install x11-repo
+pkg install termux-x11-nightly-pip install python-telegram-bot --upgradepip install python-telegram-bot -"8943528429"
+ "AAEyV8g1MAA6cO_MUCN-27TwXSxkutQXtes"-"8943528429"/upgradepip-exit-with-session xfce4-session
 [files]
 extend-exclude = [
     "node_modules",

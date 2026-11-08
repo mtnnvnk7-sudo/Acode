@@ -1,4 +1,5 @@
-# Acode - Code Editor for Android
+{
+  "name": "cy# Acode - Code Editor for Android
 
 <p align="center">
   <img src='res/logo_1.png' width='250'>
